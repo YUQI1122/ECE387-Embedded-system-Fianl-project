@@ -1,1 +1,3 @@
-# ECE387-Embedded-system-Fianl-project
+DEMO YouTube link:
+https://youtu.be/dYSST9wqrBY
+https://youtu.be/EFfBbyR_STA
